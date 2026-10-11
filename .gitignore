@@ -1,0 +1,11 @@
+# Android build output and local machine configuration
+android/.gradle/
+android/**/build/
+android/local.properties
+android/.idea/
+
+# Common generated output
+**/node_modules/
+**/dist/
+**/target/
+*.log
